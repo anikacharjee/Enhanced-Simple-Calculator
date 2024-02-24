@@ -21,7 +21,7 @@ performs basic arithmetic operations but also maintains a history of operations 
 `Quit` - Allow the user to exit the program.
 
 
-# Example:
+## Example:
 
 ===== Enhanced Simple Calculator =====
 1. Addition
