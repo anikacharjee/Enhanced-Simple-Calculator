@@ -51,6 +51,7 @@ Enter your choice (1/2/3/4/5/6): 5
 
 ===== Operations =====
 1. 10 + 5 = 15
+
 =====================
 
 ===== Enhanced Simple Calculator =====
