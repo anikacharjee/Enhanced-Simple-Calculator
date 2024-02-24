@@ -32,7 +32,9 @@ performs basic arithmetic operations but also maintains a history of operations 
 6. Quit
 
 Enter your choice (1/2/3/4/5/6): 1
+
 Enter the first number: 10
+
 Enter the second number: 5
 
 Result: 10 + 5 = 15
@@ -60,7 +62,9 @@ Enter your choice (1/2/3/4/5/6): 5
 6. Quit
 
 Enter your choice (1/2/3/4/5/6): 2
+
 Enter the first number: 8
+
 Enter the second number: 3
 
 Result: 8 - 3 = 5
@@ -76,6 +80,8 @@ Result: 8 - 3 = 5
 Enter your choice (1/2/3/4/5/6): 5
 
 ===== Operations =====
+
 1. 10 + 5 = 15
 2. 8 - 3 = 5
+
 =====================
